@@ -78,3 +78,5 @@ _Hyperparameters were systematically varied:_
 The Scikit-learn implementation demonstrated superior computational efficiency and generally stronger predictive performance.
 
 However, the custom implementation achieved comparable results and in some cases outperformed Scikit-learn at specific tree depths.
+
+*_More information and figures are found in the full report "Project.pdf", "Project - Copy.Rmd" includes code snippets for the figures and statistical tests_*
