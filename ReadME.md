@@ -1,8 +1,11 @@
 # Decision Tree Classifier: Custom vs Scikit-learn Comparison
+<p align = "center">
+  ☁️☁️₊✩‧₊˚౨ৎ˚₊✩‧₊☁️☁️₊✩‧₊˚౨ৎ˚₊✩‧₊☁️☁️₊✩‧₊˚౨ৎ˚₊✩‧₊☁️☁️
+</p>
 
 ## Project Overview
 
-This project compares a custom-built Decision Tree Classifier with the Scikit-learn DecisionTreeClassifier to evaluate:
+_This project compares a custom-built Decision Tree Classifier with the Scikit-learn DecisionTreeClassifier to evaluate:_
 
 **Machine Learning performance**
 - Accuracy
@@ -38,10 +41,14 @@ _**Hyperparameters:**_
 - DecisionTreeClassifier
 - Same hyperparameters applied for fair comparison
 
+✦ ───────── ✦ ───────── ✦
+
 _Hyperparameters were systematically varied:_
 - _max_depth: 1–10_
 - _min_samples_split: 2–5_
 - _Test sizes: 10%, 30%, 50%, 70%_
+
+✦ ───────── ✦ ───────── ✦
 
 **Statistical tests:**
 - Paired t-tests
